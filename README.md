@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BHanna2021
 - 👀 I’m interested in ... learning.
-- 🌱 I’m currently learning ... web dev.
-- 💞️ I’m looking to collaborate on ... making my company's applications awesome or really making anything easier to use.
+- 🌱 I’m currently learning ... test automation.
+- 💞️ I’m looking to collaborate on ... reducing manual testing.
 - 📫 How to reach me ...
 
 <!---
